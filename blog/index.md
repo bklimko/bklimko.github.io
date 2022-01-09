@@ -1,6 +1,6 @@
- ---
- layout: default
- title: Blog
- ---
+---
+layout: default
+title: CV
+---
 
- Lorum ipsum this is a placeholder.
+Lorum ipsum. This is a placeholder.
