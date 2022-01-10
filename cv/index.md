@@ -3,4 +3,4 @@ layout: default
 title: CV
 ---
 
-Lorum ipsum. I need to figure out how I can embed PDF documents here and also list papers once I've written some.
+<iframe src="/assets/documents/website_resume.pdf#toolbar=0" width="100%" height="500px"> </iframe>

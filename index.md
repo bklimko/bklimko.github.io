@@ -2,7 +2,9 @@
 layout: default
 title: Homepage
 ---
+
 # Benjamin Klimko
-## Researching Photonic Technologies for Communications
+
+## Researching photonic technologies for communications
 
 ![headshot](assets/images/2021_headshot.jpg)
