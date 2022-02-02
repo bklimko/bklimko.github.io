@@ -9,6 +9,6 @@ I earned a BSEE with a specialization in photonics from Rice University in Houst
 
 I then joined the technical staff at the Johns Hopkins University [Applied Physics Lab](https://www.jhuapl.edu/) where, as a communications engineer, I work on critical networking and signal processing challenges requiring creative solutions across the RF and optical domains.  
 
-As a part-time student at the University of Maryland, College Park, I am a researcher in Professor Yanne Chembo's [lab](https://chembolab.umd.edu/) where I study the use of photonic reservoirs for classifying RF modulation schemes. 
+As a part-time student at the University of Maryland, College Park, I am jointly affiliated with the Department of Electrical and Computer Engineering and the Institute for Research in Electronics and Applied [Physics](https://ireap.umd.edu/). Working with Professor [Yanne Chembo](https://chembolab.umd.edu/) I study the use of optoelectronic reservoir computing applied to the problem space of communication systems.
 
 
